@@ -1,0 +1,34 @@
+body {
+    font-family: "Comic Sans", Arial, Helvetica, sans-serif;
+    font-size: 12px
+}
+
+
+img {
+    width: 500px;
+}
+
+
+body ul {
+    color: darkred;
+}
+
+body ol {
+    color: darkblue;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.desc {
+    font-style: italic;
+}
+
+.ingred {
+    color: goldenrod;
+}
+
+#important {
+    font-weight: 900;
+}
